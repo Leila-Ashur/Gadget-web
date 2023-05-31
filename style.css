@@ -92,6 +92,7 @@
 }
 .image2 img{
     width: 1400px;
+    margin-left: 30px;
 }
 .deals{
     display: flex;
@@ -176,10 +177,20 @@
 .footer{
     display: flex;
     gap: 140px;
-    /* margin-left: 20px; */
     background-color: black;
     color: white;
     font-size: 19px;
     height: 180px;
     border: solid black;
+}
+#products1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.js img{
+    border-radius: 5px;
+    margin-bottom: 1%;
+    /* border: solid maroon; */
+
 }

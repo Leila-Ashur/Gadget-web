@@ -1,0 +1,27 @@
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    background-color: black;
+    color: white;
+    font-size: 11px;
+    height: 80px;
+    border: solid black;
+}
+
+.subscribe{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 200px;
+    font-size: 10px;
+   
+}
+
+.testimonials{
+    margin-left: 40px;
+    font-size: 15px;
+    font-style: italic;
+    margin-top: 25px;
+}
