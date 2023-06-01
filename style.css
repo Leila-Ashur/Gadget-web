@@ -1,11 +1,8 @@
-
-
-
 * {
     padding: 0px;
     margin: 0px;
 }
-.navigating{
+.colors{
     background-color: black;
     margin-top: 10px;
 }
@@ -50,12 +47,12 @@
     background-color: whitesmoke;
     border-radius: 5px;
 }
-.nbar{
+.bar{
     margin-top: 30px;
     margin-left: 450px;
 }
 .devices{
-    background-color: rgb(241, 142, 243);
+    background-color: rgb(187, 104, 132);
     margin-top: 30px;
     height: 500px;
 }
@@ -92,7 +89,6 @@
 }
 .image2 img{
     width: 1400px;
-    margin-left: 30px;
 }
 .deals{
     display: flex;
@@ -123,12 +119,11 @@
     gap: 60px;
     margin-left: 30px;
   }
-  .station{
- background: rgb(229, 181, 229);
+  .playstation{
+    background-color: rgb(175, 120, 139);
     width: 1350px;
     margin-left: 30px;
     height: 270px;
-    display: flex;
   }
   .smater{
     margin-left: 90px;
@@ -144,8 +139,12 @@
     margin-top: -400px;
     width: 300px;
     height: 300px;
+    
   }
-.vr{
+  .back{
+     
+  }
+.atest{
     text-align: center;
     margin-top: 20px;
     font-size: 20px;
@@ -155,6 +154,7 @@
     font-size: 25px;
     font-style: italic;
     margin-top: 30px;
+   background-color:g;
 }
 .smart{
     font-size: 29px;
@@ -177,20 +177,23 @@
 .footer{
     display: flex;
     gap: 140px;
+    /* margin-left: 20px; */
     background-color: black;
     color: white;
     font-size: 19px;
     height: 180px;
     border: solid black;
 }
-#products1{
+.java img{
+    border-radius: 10px;
+    margin-bottom: 1%;
+    border:solid blueviolet
+}
+#products{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
-.js img{
-    border-radius: 5px;
-    margin-bottom: 1%;
-    /* border: solid maroon; */
 
-}
+
+   
