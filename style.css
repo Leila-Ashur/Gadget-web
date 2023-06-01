@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
 }
-.colors{
+.nav{
     background-color: black;
     margin-top: 10px;
 }
@@ -52,14 +52,14 @@
     margin-left: 450px;
 }
 .devices{
-    background-color: rgb(187, 104, 132);
+    background-color: rgb(215, 128, 234);
     margin-top: 30px;
     height: 500px;
 }
 .image1{
     margin-left: 700px;
 }
-.aboutus{
+.paragraph{
     margin-top: -450px;
     font-size: 70px;
     margin-left: 90px;
@@ -120,7 +120,7 @@
     margin-left: 30px;
   }
   .playstation{
-    background-color: rgb(175, 120, 139);
+    background-color: rgb(169, 120, 175);
     width: 1350px;
     margin-left: 30px;
     height: 270px;
@@ -144,7 +144,7 @@
   .back{
      
   }
-.atest{
+.testimonal{
     text-align: center;
     margin-top: 20px;
     font-size: 20px;
@@ -162,7 +162,7 @@
 .spans{
     color: yellow;
 }
-.subscribe{
+.letter{
     display: flex;
     gap: 70px;
     margin-left: 300px;
